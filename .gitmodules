@@ -1,0 +1,15 @@
+[submodule "luci-app-ddns-go"]
+	path = luci-app-ddns-go
+	url = https://github.com/sirpdboy/luci-app-ddns-go
+[submodule "luci-app-xray"]
+	path = luci-app-xray
+	url = https://github.com/yichya/luci-app-xray
+[submodule "luci-app-smartdns"]
+	path = luci-app-smartdns
+	url = https://github.com/pymumu/luci-app-smartdns
+[submodule "luci-app-mosdns"]
+	path = luci-app-mosdns
+	url = https://github.com/sbwml/luci-app-mosdns
+[submodule "luci-theme-design"]
+	path = luci-theme-design
+	url = https://github.com/gngpp/luci-theme-design
